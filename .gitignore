@@ -1,0 +1,8 @@
+/dist/
+*.o
+*.obj
+*.log
+/.vs/
+/.idea/
+.DS_Store
+Thumbs.db
