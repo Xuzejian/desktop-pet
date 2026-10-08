@@ -1,0 +1,2 @@
+f4061f8aa0147c1326e3e58e76a23ba845daf2b77c965d6b3e4ec43072cada9d  FluffyPet.exe
+1bd1a58bce63bfac3ddb615d99ed54caf9d54255cffe2fc32b63d5693fd0ac51  FluffyPet-Windows-x64.zip

@@ -2,6 +2,13 @@
 
 一只可以拖动、摸摸、喂食和陪你散步的毛茸茸小猫。适用于 **Windows 10 / 11，64 位（x64）**。
 
+## 下载程序
+
+- [下载 Windows 程序包](downloads/FluffyPet-Windows-x64.zip)：推荐，解压后双击 `FluffyPet.exe`。
+- [单独下载 FluffyPet.exe](downloads/FluffyPet.exe)：免安装可执行文件。
+
+程序包与 EXE 的 SHA-256 校验值记录在 [SHA256SUMS.txt](downloads/SHA256SUMS.txt)。
+
 解压后双击 `FluffyPet.exe` 即可运行，无需安装 Python、浏览器或其他运行环境。内置猫咪图片已经打包进程序，单独保留 EXE 也可以运行。程序离线运行，不会自动设置开机启动。
 
 ## 怎么玩
